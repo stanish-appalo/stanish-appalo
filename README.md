@@ -22,16 +22,10 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stanish-appalo&show_icons=true&theme=merko&hide_border=true&count_private=true&cache_seconds=86400" alt="stanish-appalo's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=stanish-appalo&theme=merko&hide_border=true&cache_seconds=86400" alt="stanish-appalo's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stanish-appalo&theme=merko&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Stanish Appalo!!!'s GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=stanish-appalo&theme=merko&radius=10" alt="stanish-appalo's Activity Graph" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=stanish-appalo&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=stanish-appalo&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stanish-appalo&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ## 💻 Tech Stack
