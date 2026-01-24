@@ -35,8 +35,18 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
 
+### 🧠 Soft Skills  
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-004080?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Team%20Collaboration-993333?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Adaptability-228B22?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Time%20Management-663399?style=for-the-badge" height="35"/>
+</p>
+
+## Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanish-appalo&layout=compact&theme=merko&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanish-appalo&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 🔗 Connect with Me
