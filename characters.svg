@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 430" width="560" height="430" role="img" aria-label="Animated cartoon characters">
+  <style>
+    .eye   { transform-box: fill-box; transform-origin: center; }
+    .blinkA { animation: blink 5s infinite; }
+    .blinkB { animation: blink 6.4s infinite; animation-delay: 1.8s; }
+    .pupil { transform-box: fill-box; transform-origin: center; animation: glance 7s ease-in-out infinite; }
+    .pupilB { animation-delay: 1.2s; }
+    @keyframes blink {
+      0%, 92%, 100% { transform: scaleY(1); }
+      95%           { transform: scaleY(0.08); }
+    }
+    @keyframes glance {
+      0%, 16%   { transform: translate(0, 0); }
+      30%, 46%  { transform: translate(4px, 2px); }
+      60%, 80%  { transform: translate(-4px, 1px); }
+      92%, 100% { transform: translate(0, 0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .blinkA, .blinkB, .pupil { animation: none; }
+    }
+  </style>
+
+  <!-- ground shadow -->
+  <ellipse cx="280" cy="412" rx="250" ry="12" fill="#000" opacity="0.12"/>
+
+  <!-- ===== Purple (back) ===== -->
+  <path d="M80 410 L80 44 Q80 30 94 30 L236 30 Q250 30 250 44 L250 410 Z" fill="#6C3FF5"/>
+  <g transform="translate(140 82)">
+    <g class="eye blinkA">
+      <ellipse rx="11" ry="13" fill="#fff"/>
+      <circle class="pupil" r="5" fill="#2D2D2D"/>
+    </g>
+  </g>
+  <g transform="translate(190 82)">
+    <g class="eye blinkA">
+      <ellipse rx="11" ry="13" fill="#fff"/>
+      <circle class="pupil" r="5" fill="#2D2D2D"/>
+    </g>
+  </g>
+
+  <!-- ===== Black (middle) ===== -->
+  <path d="M250 410 L250 132 Q250 120 262 120 L348 120 Q360 120 360 132 L360 410 Z" fill="#2D2D2D"/>
+  <g transform="translate(292 166)">
+    <g class="eye blinkB">
+      <ellipse rx="9" ry="11" fill="#fff"/>
+      <circle class="pupil pupilB" r="4" fill="#2D2D2D"/>
+    </g>
+  </g>
+  <g transform="translate(320 166)">
+    <g class="eye blinkB">
+      <ellipse rx="9" ry="11" fill="#fff"/>
+      <circle class="pupil pupilB" r="4" fill="#2D2D2D"/>
+    </g>
+  </g>
+
+  <!-- ===== Orange (front-left, dome) ===== -->
+  <path d="M10 410 L10 240 Q10 122 125 122 Q240 122 240 240 L240 410 Z" fill="#FF9B6B"/>
+  <circle class="pupil" cx="105" cy="300" r="7" fill="#2D2D2D"/>
+  <circle class="pupil pupilB" cx="145" cy="300" r="7" fill="#2D2D2D"/>
+
+  <!-- ===== Yellow (front-right) ===== -->
+  <path d="M315 410 L315 262 Q315 200 380 200 Q445 200 445 262 L445 410 Z" fill="#E8D754"/>
+  <circle class="pupil" cx="366" cy="250" r="7" fill="#2D2D2D"/>
+  <circle class="pupil pupilB" cx="396" cy="250" r="7" fill="#2D2D2D"/>
+  <rect x="362" y="296" width="38" height="4.5" rx="2.25" fill="#2D2D2D"/>
+</svg>
