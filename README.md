@@ -112,12 +112,12 @@ Full-stack developer who builds clean, dependable applications end to end — fr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=stanish-appalo&show_icons=true&hide_border=true&rank_icon=github&title_color=00E5FF&icon_color=6C3FF5&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="profile/stats.svg" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com/?user=stanish-appalo&hide_border=true&background=0D1117&border=0D1117&stroke=21262D&ring=00E5FF&fire=6C3FF5&currStreakNum=C9D1D9&currStreakLabel=00E5FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanish-appalo&layout=compact&hide_border=true&langs_count=8&title_color=00E5FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+  <img src="profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <!-- Animated contribution activity graph -->
